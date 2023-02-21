@@ -1,0 +1,63 @@
+
+body{
+    font-family: 'Montserrat';
+}
+.text-bg{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.text-xsm{
+font-size: x-small;
+}
+.pd-10{
+    padding: 10rem 0 0rem 10rem;
+}
+.mg-1{
+    margin: 1rem 10rem;
+}
+.mg-left-1{
+    margin-left: 10rem;
+}
+.text-sm{
+    font-size:small;
+}
+.text-white{
+    color:white;
+    width: 15rem;
+}
+.single-line{
+    width: 50%;
+}
+.js-around{
+    display: flex;
+    justify-content: space-around;
+}
+.text-center{
+    text-align: center;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.op{
+    opacity: 80%;
+}
+.bold{
+    font-weight: bold;
+}
+.bolder{
+    font-weight: bolder;
+}
+.center{
+    text-align: center;
+}
+.card-bg{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.card-sm{
+    font-size: medium;
+    font-weight: bold;
+}

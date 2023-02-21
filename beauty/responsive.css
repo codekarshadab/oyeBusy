@@ -1,0 +1,310 @@
+.responsive-input{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 850px){
+    .responsive-input input{
+    margin: 1rem 0;
+    min-width: 100%;
+    height: 2rem;
+    border: 2px solid rgb(113, 110, 110);
+    border-radius: 3px;
+    padding-left: 2rem;
+}
+.navbar{
+    min-width: 108%;
+    margin-right: 1rem;
+}
+    .left{
+        min-width: 100%;
+    }
+    .left a{
+        width: 100%;
+   }
+   .right{
+    display: none;
+   }
+   #logo{
+    display: none;
+   }
+   .responsive-input{
+    display: inline;
+    margin-left: 1rem;
+    margin: 1rem 0;
+    }
+    .part1{
+        display: none;
+    
+    }
+    .part2{
+        width: 100%;
+    }
+    .part2 p{
+        display: none;
+    }
+    .responsive-sec1-pt2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+#aadha{
+    display: none;
+}
+.sm-banner img{
+    width: 50%;
+}
+.catalogue{
+    margin: 1rem 0.5rem;
+}
+
+.hidden{
+    display: none;
+}
+.section3-part2 img{
+    width: 90vw;
+    margin: 1rem 5% 0 5%;
+}
+.resp-brown{
+    
+    width: 100%;
+    overflow: hidden;
+}
+.section4-part1 div{
+    margin-left: 1rem;
+}
+#peace{
+    display: none;
+}
+#peace2{
+    display: block;
+}
+.repair-items{
+    width: 100%;
+    overflow: hidden;
+    margin:5rem 0 0 0;
+}
+#yellow{
+    display: none;
+}
+#yb2{
+    display: block;
+}
+.section5{
+    display: flex;
+    flex-direction: column;
+}
+#fwd{
+    display: none;
+}
+#bck{
+    display: none;
+}
+.section52{
+    margin-left: 10%;
+    width: 90%;
+    display: flex;
+    overflow: hidden;
+}
+.card{
+    position: relative;
+    top: -2rem;
+}
+.section51 p{
+    text-align: center;
+    width: 100%;
+}
+#choose2{
+    display: block;
+    height: 100%;
+    width: 80%;
+    margin: 0 10%;
+}
+.review-cmnt{
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+
+.ladki{
+    display: none;
+}
+.refer{
+    display: none;
+}
+.stamp p{
+    width: 70%;
+}
+.stamp img{
+    width: 50%;
+}
+.foot{
+    display: none;
+}
+.foot-nav{
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem 0 0 0;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 100%;
+    height: 4rem;
+}
+.foot-nav a{
+    color: black;
+    opacity: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+.foot-nav img{
+    padding-bottom: 0.5rem;
+    width: 5vw;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 480px){
+    .sm-banner{
+        width: 100%;
+        overflow: hidden;
+    }
+
+.catalogue a{
+    font-size: 10px;
+}
+.trending{
+    display: flex;
+    width: 100%;
+    margin: 0;
+}
+.trending img{
+    width: 10rem;
+}
+.sameDay-services{
+    justify-content: space-between;
+    overflow: hidden;
+    width: 100%;
+}
+.sameDay-services img{
+    width: 10rem;
+    }
+    .section3-part2{
+        width: 100%;
+    }
+    .section4-part1{
+        width: 100%;
+        overflow: hidden;
+        justify-content: space-between;
+    }
+
+    .flex-coloumn a{
+        font-size: 15px;
+    }
+    .flex-coloumn p{
+        font-size: 12px;
+    }
+#peace2{
+    width: 100%;
+    margin: auto;
+}
+.repair-items img{
+    width: 12rem;
+
+}
+#yb2{
+    width: 100%;
+    margin:auto;
+}
+.section52{
+    justify-content: space-between;
+    width: 100%;
+}
+#resp-smm{
+    font-size: 11px;
+}
+#resp-xsmm{
+    font-size: 7px;
+}
+.card{
+    top: -16px;
+    left: 25px;
+}
+.card img{
+    
+}
+.cards{
+    width: 50%;
+}
+#choose2{
+    width: 100%;
+    margin: auto;
+}
+.review-cmnt{
+    width: 100%;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.resp-navbar{
+    margin: auto;
+}
+.resp-navbar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 11px;
+}
+.resp-navbar{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+max-width: 100%;
+    display: inline;
+}
+.resp-dropdown-items{
+    display: none;
+}
+.resp-nav:hover ul.resp-dropdown-items{
+    display: block;
+    box-shadow: rgba(8, 8, 182, 0.2) 0px 7px 29px 0px;
+}
+.hidden2{
+    display:none
+}
+
+
+
+.main{
+margin-right: -25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}

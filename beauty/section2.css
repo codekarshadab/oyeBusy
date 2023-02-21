@@ -1,0 +1,282 @@
+
+.section2{
+margin-top: 3rem;
+}
+.trending-text{
+    color: #025B5D;
+
+}
+.trending{
+    width: 80%;
+    margin: 2.5rem 10%;
+}
+.trending img{
+    width: 13rem;
+}
+.section3{
+    margin-top: 2rem;
+
+}
+.sameDay-services{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin-left: 2.5rem;
+}
+#pc{
+    margin-top: -2rem;
+}
+.sameDay-services img{
+width: 13rem;
+}
+.section3-part2{
+    
+}
+.section3-part2 img{
+    width: 50rem;
+    margin: 5rem 20% 0 20%;
+}
+.section4-part1{
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem 12.5%;
+
+}
+.section4-part1 a{
+    margin:0.5rem 2rem;
+    display: flex;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+
+}
+.section4-part1 p{
+    opacity: 80%;
+    margin: 0 1rem;
+}
+.section4{
+    margin-top: 5rem;
+}
+#peace{
+    margin-top: 5rem;
+   width: 100%;
+}
+#peace2{
+    display: none;
+    margin-top: 5rem;
+   height: 100%;
+   margin-left: 10%;
+}
+.home-appliance-services{
+    margin-top: 5rem;
+}
+.repair-items{
+    display: flex;
+    margin-top: 5rem;
+    /* justify-content: space-evenly; */
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.repair-items img{
+    height: 13rem;
+}
+#yellow{
+    margin-top: 5rem;
+   width: 100%;
+   cursor: pointer;
+}
+#yb2{
+    margin-top: 5rem;
+    margin-left: 5%;
+    display: none;
+    width: 90%;
+}
+.card img{
+    /* position: relative; */
+    width: 80px;
+}
+.card{
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.section5-pt2{
+    display: flex;
+    justify-content: space-around;
+}
+.review{
+    margin-top: 2rem;
+}
+.review-cmnt{
+    margin-top: 2rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+.review-cmnt img{
+    width: 300px;
+}
+.refer{
+    background: rgba(245, 245, 245, 1);
+    margin: 2rem 5%;
+}
+.refer{
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+    background-image: url(phones.png);
+    background-size: 90rem;
+    background-repeat: no-repeat;
+}
+.refer p{
+    margin-top: 1rem;
+}
+.referal{
+    font-size: x-large;
+    font-weight: bolder;
+}
+    .arrow{
+        margin-top: 1rem;
+    }
+.arrow button{
+    display: flex;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    /* width: 40vh; */
+    height: 35px;
+}
+.arrow button img{
+    height: 30px;
+}
+.arrow input{
+    background: white;
+    color: black; 
+    border: 2px solid white;
+    width: 35vh;
+    height: 30px;
+    
+}
+.refer-btn{
+    margin-top: 2rem;
+}
+.refer-btn button{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 35px;
+    margin-right: 1rem;
+}
+#phones{
+    width: 85rem;
+}
+.stamp{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.stamp p{
+    font-weight: bolder;
+    width: 50vh;
+
+}
+.ladki{
+    margin-top: 2rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: rgba(229, 228, 233, 1);
+    display: flex;
+    justify-content: space-between;
+}
+.ladki-item{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #025B5D;
+    margin: 2rem 10rem;
+    padding: 2rem 5rem;
+    width: 40vh;
+    height: 40vh;
+    background-color: white;
+    list-style-type:disc;
+}
+.ladki-item li{
+    font-size: medium;
+    font-weight: bolder;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    color: black;
+}
+
+
+
+
+.section52 button{
+    cursor: pointer;
+    border: none;
+    background-color: white;
+    /* position: absolute;
+    left: 30vh; */
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    box-shadow: rgba(190, 187, 187, 0.35) 0px 5px 15px;
+    border-radius: 1rem;
+    width: 30%;
+    height: 30%;
+    margin: 2rem 2rem;
+    cursor: pointer;
+}
+.card{
+    width: 50%;
+    position: relative;
+    top: -3rem;
+    left: 2rem;
+    opacity: 70%;
+}
+.cards p{
+    position: relative;
+    margin: 0 10% 2.5% 10%;
+    bottom: 10%;
+}
+.section52{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    margin-right: 1rem;
+    /* margin-left: 20vh; */
+    overflow: hidden;
+}
+#bck{
+    height: 6vh;
+}
+#fwd{
+    height: 6vh;
+}
+
+.section5{
+    display: flex;
+    margin-left: 5vh;
+    min-height: 50vh;
+}
+.section51{
+    margin: auto;
+}
+.section51 p{
+    margin-bottom: 1rem;
+    width: 20vh;
+}
+.mehnat{
+
+}
+#choose2{
+    display: none;
+}
+.foot-nav{
+    display: none;
+}
